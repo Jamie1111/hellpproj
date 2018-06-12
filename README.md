@@ -1,6 +1,10 @@
 # notes 
 
-
+- git init: initialise repo
+- git status 
+-  git add .: you tracking the files to a "stage" for "ready to be committed"; not committed yet
+- git commit -m "description of what you did/ current stage of work/ "
+- 
 
 
 
